@@ -7,4 +7,4 @@ The purpose of this analysis is to analyze trends and patterns in US residential
 
 - Treated data for Missing Values and imported data into the Power BI environment. Used Power Query Editor to transform and load data then utilized Power BI's visualization to Present Data in the form of a Dashboard.
 
-- Performed analysis and got Average Sale Value, Total Sales, Top Salers, Year-wise Sales and Location-wise Sales about Homes in the United States.
+- Performed analysis and got Average Sale Value, Total Sales, Top Salers, Year-wise Sales and Region-wise Sales of Homes in the United States.
